@@ -15,6 +15,5 @@ Pod::Spec.new do |spec|
 
     spec.dependency 'PathKit', '~> 0.9.0'
     spec.dependency 'Yams', '~> 1.0.0'
-    spec.dependency 'RainbowSwift', '~> 3.1.0'
     spec.dependency 'JSONUtilities'
 end
